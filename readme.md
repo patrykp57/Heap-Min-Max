@@ -7,7 +7,7 @@ Simple implementation of binary heap with Min/Max option.
 Commands:
 
 
-`+ n' add n number to heap <br/>
+`+ n` add n number to heap <br/>
 
 `-` delete min/max and print <br/> 
 
